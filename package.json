@@ -1,0 +1,18 @@
+{
+  "name": "colossal-adventure-rpg",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "gradient-string": "^1.2.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
